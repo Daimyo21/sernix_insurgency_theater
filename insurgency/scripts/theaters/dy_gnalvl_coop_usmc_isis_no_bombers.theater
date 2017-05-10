@@ -75,8 +75,8 @@
 					"Bot"		"mg_fighter_ins_1"		
 					"Bot"		"mg_fighter_ins_2" 		
 					"Bot"		"striker_ins_1"			
-					"Bot"		"sapper_ins_3"		
-					"Bot"		"sapper_ins_1"		
+					"Bot"		"sapper_ins_3" 		
+					"Bot"		"juggernaut_2"		
 					"Bot"		"sapper_ins_2"				
 					"Bot"		"scout_ins_1" 	
 				}
@@ -88,7 +88,7 @@
 					"Bot"		"mg_fighter_ins_3"		
 					"Bot"		"striker_ins_2" 		
 					"Bot"		"striker_ins_3" 		
-					"Bot"		"juggernaut_1"			
+					"Bot"		"juggernaut_3"			
 					"Bot"		"striker_ins_6"		
 					"Bot"		"scout_ins_2" 		
 					"Bot"		"striker_ins_4"			
@@ -98,12 +98,12 @@
 				{
 					//role name									
 					"Bot"		"standard_ins_3" 
-					"Bot"		"juggernaut_1"
+					"Bot"		"juggernaut_4"
 					"Bot"		"mg_fighter_ins_4"
 					"Bot"		"mg_fighter_ins_5"  		
-					"Bot"		"juggernaut_1"		
-					"Bot"		"striker_ins_5"			
-					"Bot"		"sapper_ins_4"			
+					"Bot"		"juggernaut_1"	 		
+					"Bot"		"juggernaut_3" 		
+					"Bot"		"juggernaut_1"			
 					"Bot"		"striker_ins_7"
 				}
 

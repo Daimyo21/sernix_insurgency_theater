@@ -56,6 +56,162 @@
 				"gear"				"srnx_BOT_ins_jugger_helmet_black"
 			}
 		}
+		// juggernaut bot 2
+		"juggernaut_2"
+		{	
+			"team"			"insurgents"
+			"print_name"	"BOT" 
+			"models"
+			{
+				"player"				"models/characters/custom/mlfcn_insurgent_heavy.mdl"
+				"viewmodel_hands"		"models/m2blu_h/v_hands_sec_l.mdl"
+
+				// "bodygroups"
+				// {
+				// 	"backpack"					"-1"
+				// 	"glasses"					"-1"
+				// 	"kit"					"-1"
+				// }
+
+			}
+			"buy_order" 
+			{
+				//Carrier|Armor
+				"gear"				"ins_BOT_carrier_balance"
+				"gear"				"srnx_BOT_juggernaut_armor"
+				"gear"				"srnx_BOT_ins_jugger_helmet_black"
+				"weapon"			"weapon_knife"
+				
+				//Primary
+				"weapon"			"weapon_rpk"
+				"weapon_upgrade"	"ammo_ap_rpk"
+				//Secondary
+				"weapon"			"weapon_aks74u"
+				"weapon_upgrade"	"ammo_hp_aks74u"
+
+				//Explosive
+				"weapon"			"weapon_at4"
+				
+			}
+			"allowed_weapons"
+			{
+				//Primary
+				"weapon"			"weapon_rpk"
+				"weapon_upgrade"	"ammo_ap_rpk"
+				//Secondary
+				"weapon"			"weapon_aks74u"
+				"weapon_upgrade"	"ammo_hp_aks74u"
+
+				//Explosive
+				"weapon"			"weapon_at4"
+				"gear"				"srnx_BOT_juggernaut_armor"
+				"gear"				"srnx_BOT_ins_jugger_helmet_black"
+			}
+		}
+		// juggernaut bot 3
+		"juggernaut_3"
+		{	
+			"team"			"insurgents"
+			"print_name"	"BOT" 
+			"models"
+			{
+				"player"				"models/characters/custom/mlfcn_insurgent_heavy.mdl"
+				"viewmodel_hands"		"models/m2blu_h/v_hands_sec_l.mdl"
+
+				// "bodygroups"
+				// {
+				// 	"backpack"					"-1"
+				// 	"glasses"					"-1"
+				// 	"kit"					"-1"
+				// }
+
+			}
+			"buy_order" 
+			{
+				//Carrier|Armor
+				"gear"				"ins_BOT_carrier_balance"
+				"gear"				"srnx_BOT_juggernaut_armor"
+				"gear"				"srnx_BOT_ins_jugger_helmet_black"
+				"weapon"			"weapon_knife"
+				
+				//Primary
+				"weapon"			"weapon_ksg"
+				"weapon_upgrade"	"tacbuck"
+				//Secondary
+				"weapon"			"weapon_toz"
+				"weapon_upgrade"	"commbuck"
+
+				//Explosive
+				"weapon"			"weapon_f1"
+				
+			}
+			"allowed_weapons"
+			{
+				//Primary
+				"weapon"			"weapon_ksg"
+				"weapon_upgrade"	"tacbuck"
+				//Secondary
+				"weapon"			"weapon_toz"
+				"weapon_upgrade"	"commbuck"
+
+				//Explosive
+				"weapon"			"weapon_f1"
+				"gear"				"srnx_BOT_juggernaut_armor"
+				"gear"				"srnx_BOT_ins_jugger_helmet_black"
+			}
+		}
+		// juggernaut bot 4
+		"juggernaut_4"
+		{	
+			"team"			"insurgents"
+			"print_name"	"BOT" 
+			"models"
+			{
+				"player"				"models/characters/custom/mlfcn_insurgent_heavy.mdl"
+				"viewmodel_hands"		"models/m2blu_h/v_hands_sec_l.mdl"
+
+				// "bodygroups"
+				// {
+				// 	"backpack"					"-1"
+				// 	"glasses"					"-1"
+				// 	"kit"					"-1"
+				// }
+
+			}
+			"buy_order" 
+			{
+				//Carrier|Armor
+				"gear"				"ins_BOT_carrier_balance"
+				"gear"				"srnx_BOT_juggernaut_armor"
+				"gear"				"srnx_BOT_ins_jugger_helmet_black"
+				"weapon"			"weapon_knife"
+				
+				//Primary
+				"weapon"			"weapon_m249"
+				"weapon_upgrade"	"ammo_ap_m249"
+				//Secondary
+				"weapon"			"weapon_deagle"
+				"weapon_upgrade"	"ammo_ap_deagle"
+
+				//Explosive
+				"weapon"			"weapon_anm14"
+				
+			}
+			"allowed_weapons"
+			{
+				//Primary
+				"weapon"			"weapon_m249"
+				"weapon_upgrade"	"ammo_ap_m249"
+				//Secondary
+				"weapon"			"weapon_deagle"
+				"weapon_upgrade"	"ammo_ap_deagle"
+
+				//Explosive
+				"weapon"			"weapon_anm14"
+				"gear"				"srnx_BOT_juggernaut_armor"
+				"gear"				"srnx_BOT_ins_jugger_helmet_black"
+			}
+		}
 		// Standard Model 1
 		"standard_ins_1"
 		{	

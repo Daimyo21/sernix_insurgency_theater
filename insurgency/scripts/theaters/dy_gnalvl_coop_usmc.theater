@@ -85,8 +85,8 @@
 					"Bot"		"mg_fighter_ins_2" 		
 					"Bot"		"striker_ins_1" 		
 					"Bot"		"striker_ins_3"				
-					"Bot"		"sapper_ins_1"		
-					"Bot"		"sapper_ins_2"				
+					"Bot"		"sapper_ins_1" 		
+					"Bot"		"juggernaut_1" 				
 					"Bot"		"scout_ins_1" 	
 				}
 
@@ -97,7 +97,7 @@
 					"Bot"		"mg_fighter_ins_3"		
 					"Bot"		"striker_ins_2" 
 					"Bot"		"bomber_ins_1" 		
-					"Bot"		"juggernaut_1" 	
+					"Bot"		"juggernaut_2" 	
 					"Bot"		"striker_ins_vip_1"
 					"Bot"		"mg_fighter_ins_4" 		
 					"Bot"		"scout_ins_3"			
@@ -108,12 +108,12 @@
 					//role name									
 					"Bot"		"standard_ins_3"	
 					"Bot"		"bomber_ins_2"	
-					"Bot"		"sapper_ins_3"	 	
-					"Bot"		"striker_ins_4"		
-					"Bot"		"striker_ins_5"		
+					"Bot"		"juggernaut_3" 	 	
+					"Bot"		"striker_ins_4"	
+					"Bot"		"juggernaut_4" 		
 					"Bot"		"sapper_ins_4"	
-					"Bot"		"juggernaut_1"		
-					"Bot"		"scout_ins_vip_1"
+					"Bot"		"juggernaut_3"			
+					"Bot"		"juggernaut_1" 
 				}
 
 				"Team4"	// Support team #4 (Mirrors Team 1)
