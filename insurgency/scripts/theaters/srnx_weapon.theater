@@ -5509,8 +5509,8 @@
 			"weapon_cost"					"0"
 			"weapon_weight"					"144" 
 			"barrel_length"					"39"
-			"draw_speed"					"0.75"
-			"reload_speed"					"0.9"
+			"draw_speed"					"0.7"
+			"reload_speed"					"0.8"
 			
 			//higher is slower
 			"ironsights"

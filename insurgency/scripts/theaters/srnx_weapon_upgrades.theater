@@ -6381,7 +6381,7 @@
 					"scales"
 					{
 						"weapon_m14"				"0.45"
-						"weapon_m107"				"0.45"
+						//"weapon_m107"				"0.45"
 						"weapon_mini14"				"0.45"
 						"weapon_m590"				"0.55"
 						"weapon_nova"				"0.55"
@@ -6395,7 +6395,7 @@
 					"weapons"
 					{
 						"weapon"			"weapon_m14"
-						"weapon"			"weapon_m107"
+						//"weapon"			"weapon_m107"
 						"weapon"			"weapon_mini14"
 						"weapon"			"weapon_m590"
 						"weapon"			"weapon_nova"
